@@ -5,6 +5,11 @@
       "address": "0x723F56f0060F1f306825b556879dF8d9Be51c48f",
       "txHash": "0xe92eb756dd5db1fb9f76a9dfd2e94bac4ef896d74555bf07b15cde087d24c1ca",
       "kind": "transparent"
+    },
+    {
+      "address": "0x75f3688639Eb4170F3996Ac9bD8803155d0A82C6",
+      "txHash": "0x1d0511fd298f855a8b997236b490cb3c85abf6c2fce620be0d4d8d888b009b6e",
+      "kind": "transparent"
     }
   ],
   "impls": {
